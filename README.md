@@ -1,4 +1,4 @@
-# Sistem Pengusir Hama Cerdas Berbasis IoT (ESP32)
+# Sistem Pengusir Burung Otomatis Berbasis IoT (ESP32)
 
 Project Capstone - Universitas KH. A. Wahab Hasbullah (2026)
 **Tim Pengembang:** Mohammad Ghazi Al Ghifari dkk.
